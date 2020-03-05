@@ -13,3 +13,4 @@ Initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Spl
   - Visited the Mars Facts webpage and used Pandas to scrape the table containing facts about the planet
   
 - Mars Hemispheres
+  - Visited the USGS Astrogeology site to obtain high resolution images for each of Mar's hemispheres
