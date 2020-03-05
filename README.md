@@ -8,3 +8,5 @@ Initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Spl
 - JPL Mars Space Images
   - Visit the url for JPL Featured Space Image
   - Use splinter to navigate the site and find the image url for the current Featured Mars Image
+
+- Mars Weather
