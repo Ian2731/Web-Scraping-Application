@@ -14,3 +14,7 @@ Initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Spl
   
 - Mars Hemispheres
   - Visited the USGS Astrogeology site to obtain high resolution images for each of Mar's hemispheres
+
+MongoDB and Flask Application
+
+- Using MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
