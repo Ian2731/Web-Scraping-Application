@@ -5,4 +5,4 @@ Initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Spl
 - Nasa Mars News
   - Scrape the NASA Mars News Site and collect the latest news title and paragraph text
 
--JPL Mars Space Images
+- JPL Mars Space Images
